@@ -1,15 +1,3 @@
-"""
-Refactored automation script.
-
-Improvements:
-- main() entry point
-- Type hints
-- Docstrings
-- Logging
-- Constants
-- try/finally cleanup
-"""
-
 from __future__ import annotations
 
 import logging
